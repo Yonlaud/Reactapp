@@ -1,6 +1,6 @@
 # Reactapp
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from 'https://github.com/gilbarbara/logos/blob/master/logos/500px.svg';
 import './App.css';
 
 class App extends Component {
